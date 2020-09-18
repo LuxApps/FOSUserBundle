@@ -1,5 +1,5 @@
 {
-    "name": "friendsofsymfony/user-bundle",
+    "name": "luxapps/fos-user-bundle",
     "type": "symfony-bundle",
     "description": "Symfony FOSUserBundle",
     "keywords": [
